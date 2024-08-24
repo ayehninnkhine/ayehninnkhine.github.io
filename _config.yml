@@ -23,19 +23,18 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aye Hninn Khine"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "I am a Ph.D. (Computer Science) graduate from Department of Computational Science, Prince of Songkla University. My key research expertise areas are medical NLP models, social media sentiment analysis, domain-specific models, and responsible AI. With over 8 years of experience in the machine learning, deep learning, and natural processing field, I become a Google Developer Expert in Machine Learning in December 2023 in recognition of my community contributions. I enjoy collaborative work with professionals from diverse domain backgrounds and I also enjoy interfacing with subject matter experts to provide suitable technical solutions."
   location         : "Thailand"
   employer         : "Prince of Songkla University"
-  uri              : # URL
   email            : "6110230008@alumni.psu.ac.th" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=dD7ZdLoAAAAJ&hl=en&authuser=2"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-6078-3906
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0000-0001-6078-3906"
+  researchgate     : "https://www.researchgate.net/profile/Aye-Khine"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
