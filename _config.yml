@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SMM00013-gde-badge.png"
   name             : "Aye Hninn Khine"
   pronouns         : "she/her"  
   bio              : "I am a Ph.D. (Computer Science) graduate from Department of Computational Science, Prince of Songkla University. My key research expertise areas are medical NLP models, social media sentiment analysis, domain-specific models, and responsible AI. With over 8 years of experience in the machine learning, deep learning, and natural processing field, I become a Google Developer Expert in Machine Learning in December 2023 in recognition of my community contributions. I enjoy collaborative work with professionals from diverse domain backgrounds and I also enjoy interfacing with subject matter experts to provide suitable technical solutions."
@@ -37,38 +37,11 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Aye-Khine"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  github           : "ayehninnkhine"
+  kaggle           : "ayekhine"  
+  
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  twitter          : "ayehninnkhine"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
