@@ -6,9 +6,6 @@ venue: "Division of Computational Science, Prince of Songkla University"
 date:  August 2019 to February 2024
 location: "Hat Yai, Thailand"
 ---
-
-Heading 1
-======
 ---
 title: "Visiting Faculty"
 collection: teaching
@@ -18,9 +15,3 @@ date:  August 2024 to Current
 location: "Online"
 ---
 
-
-Heading 2
-======
-
-Heading 3
-======
