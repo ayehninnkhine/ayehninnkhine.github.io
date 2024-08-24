@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Visiting Faculty"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate courses (CS 210B - Programming with Python)"
+venue: "Parami University"
+date:  August 2024 to Current
+location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
