@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Prince of Songkla University, 2024 (GPA - 3.75)
 * Master of Computer Science, University of Computer Studies Yangon, 2017 (GPA - 3.0)
-* Bachelor of Computer Science, 
+* Bachelor of Computer Science (Hons), University of Computer Studies Yangon, 2013 (GPA - 3.5)
 
 Work experience
 ======
