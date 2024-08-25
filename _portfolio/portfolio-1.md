@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Meekin"
+excerpt: "Koe Koe Tech, an IT social enterprise with a successful history in content monitoring and developing social impact technology, is building the solution to address this challenge: Meekin. Meekin is a web and cloud-based platform empowering Global South civil society to monitor, analyze, and mitigate dangerous online content through a standardized process aligned with international human rights law (IHRL). By crowdsourcing local expertise, Meekin aims to identify and reduce harms caused by hate speech and misinformation. Taking a byCSO-for-CSO approach, it leverages machine learning (ML) models to pre-flag content in multiple languages. The platform is built to allow civil society coordination and house a cloud database with millions of flagged posts from around the world. Crucially, it also serves as an independent review mechanism to hold Big Tech accountable for its moderation."
 collection: portfolio
 ---
 
