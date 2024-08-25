@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Prince of Songkla University, 2024 (GPA - 3.75)
+* Master of Computer Science, University of Computer Studies Yangon, 2017 (GPA - 3.0)
+* Bachelor of Computer Science, 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant
+  * Division of Computational Science, Faculty of Science, Prince of Songkla University
+  * Supervisor: Asst. Prof. Dr. Jarunee Duangsuwan
+    
+* Senior NLP Consultant (Jan 2021 - Feb 2023)
+  * Koe Koe Tech Co.Ltd
 
-* Fall 2015: Research Assistant
-  * Github University
+* Research Software Engineer 
+  * Bindez Co.Ltd 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research and Development
+* Teaching
+  * Programming/Algorithms and Data Structures
+  * Machine Learning/Deep Learning
+  * Research Methodology in Computer Science
+* Natural Language Processing Projects Research and Development
+* Google Cloud
 
 Publications
 ======
