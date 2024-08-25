@@ -23,11 +23,12 @@ Work experience
     
 * Senior NLP Consultant (Jan 2021 - Feb 2023)
   * Koe Koe Tech Co.Ltd
+  * Project - Machine Learning-Based Hate Speech Monitoring System
+  * Publication - SIREN! Detecting Burmese Hate Speech Comments on Social Media (https://ieeexplore.ieee.org/document/9729075)
 
-* Research Software Engineer 
-  * Bindez Co.Ltd 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Software Engineer (Oct 2017 - July 2018)
+  * Bindez Co.Ltd
+  * Project - Sentiment Analysis for brand monitoring system
   
 Skills
 ======
