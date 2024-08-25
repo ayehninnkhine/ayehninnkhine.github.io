@@ -60,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Board Member - Women in AI Myanmar
+* Member - Google Developer Expert (Machine Learning)
