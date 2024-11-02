@@ -17,13 +17,16 @@ Education
 
 Work experience
 ======
-* Research Assistant
+* Lecturer/Research Scientist (Nov 2024-Present)
+  * Department of Computer Engineering, Faculty of Engineering, King Mongkut's University of Technology Thonburi
+
+* Research Assistant (June 2024-Oct 2024)
   * Division of Computational Science, Faculty of Science, Prince of Songkla University
   * Supervisor: Asst. Prof. Dr. Jarunee Duangsuwan
     
 * Senior NLP Consultant (Jan 2021 - Feb 2023)
   * Koe Koe Tech Co.Ltd
-  * Project - Machine Learning-Based Hate Speech Monitoring System
+  * Project - Machine Learning-Based Hate Speech Monitoring System for low resource languages
   * Publication - SIREN! Detecting Burmese Hate Speech Comments on Social Media (https://ieeexplore.ieee.org/document/9729075)
 
 * Research Software Engineer (Oct 2017 - July 2018)
