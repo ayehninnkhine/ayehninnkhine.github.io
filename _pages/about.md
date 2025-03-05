@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Aye Hninn Khine. You can contact me for Machine Learning project consultation, AI/NLP knowledge sharing, and research collaboration. I teach core computer science/engineering subjects related to software engineering and conduct research on NLP, text mining, responsible AI, and MLOps.
+I’m an AI researcher, educator, and community builder passionate about Natural Language Processing (NLP) for social good. Currently, I’m a lecturer at KMUTT (King Mongkut’s University of Technology Thonburi), Department of Computer Engineering.  My journey in AI started with a master’s thesis on Burmese text classification and later expanded into medical AI during my Ph.D. I’ve also worked on hate speech detection projects as senior AI consultant that won grants from Microsoft AI for Good and UNDP.
+I received Google WomenTechmakers Scholarship (2018), Thailand Education Hub for ASEAN Countries Scholarship (2018), and Kaggle BIPOC Grant (2021). 
+As an educator, I teach Data Structures, Database, Machine Learning and Computer Engineering courses guiding the next generation of AI and software engineers.
+Beyond academia, I’m passionate about responsible AI and AI ethics in low-resource NLP. I actively contribute to the AI and ML community as an AI Google Developer Expert and a board member of Women in AI Myanmar. 
+
 
 Email - ayehninnkhine93@gmail.com, 6110230008@alumni.psu.ac.th, aye.hnin@kmutt.ac.th
