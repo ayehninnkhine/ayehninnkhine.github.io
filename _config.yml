@@ -24,14 +24,13 @@ author:
   avatar           : "SMM00013-gde-badge.png"
   name             : "Aye Hninn Khine"
   pronouns         : "she/her"  
-  bio              : "I am a Ph.D. (Computer Science) graduate from Department of Computational Science, Prince of Songkla University. My key research expertise areas are medical NLP models, social media sentiment analysis, domain-specific models, and responsible AI. I have been recognized as a Google Developer Expert in Machine Learning since December 2023 due to my AI/ML-related contributions to SEA tech community. Currently, I am a lecturer at Department of Computer Engineering, Faculty of Engineering, King Mongkut's University of Technology Thonburi."
   location         : "Thailand"
-  employer         : "Prince of Songkla University"
-  email            : "6110230008@alumni.psu.ac.th" 
+  employer         : "King Mongkut's University of Technology Thonburi"
+  email            : "aye.hnin@kmutt.ac.th" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=dD7ZdLoAAAAJ&hl=en&authuser=2"
+  googlescholar    : "https://scholar.google.com/citations?user=dXABPqkAAAAJ&hl=en&authuser=7"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6078-3906"
   researchgate     : "https://www.researchgate.net/profile/Aye-Khine"
