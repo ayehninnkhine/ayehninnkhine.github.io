@@ -13,8 +13,10 @@ Education
 ======
 * Ph.D in Computer Science, Prince of Songkla University, 2024 (GPA - 3.75)
     * Thesis - A Novel Sentiment Classification Method on Medical Reviews (Passed with Exellence)
+    * Advisors - Asst. Prof. Dr. Jarunee Duangsuwan, Asst. Prof. Dr. Wiphada Wettayaprasit
 * Master of Computer Science, University of Computer Studies Yangon, 2017 (GPA - 3.0)
     * Thesis - Automatic Myanmar News Classification Using Naive Bayes Classifier
+    * Advisor - Prof. Dr. Khin Thandar Nwet
 * Bachelor of Computer Science (Hons), University of Computer Studies Yangon, 2013 (GPA - 3.5)
 
 Work experience
