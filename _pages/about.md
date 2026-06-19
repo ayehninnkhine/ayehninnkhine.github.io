@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Website Update"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Website Update**
 
 **This website is no longer maintained as of July 2025.**
 
 For the latest information, please visit my new homepage:
 
-**https://sites.google.com/view/ayehninnkhine**
+**[Aye Hninn Khine – Personal Homepage](https://sites.google.com/view/ayehninnkhine)**
 
 
 I’m an AI researcher, educator, and community builder passionate about Natural Language Processing (NLP) for social good. 
