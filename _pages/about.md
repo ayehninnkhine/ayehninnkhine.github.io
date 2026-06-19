@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+**Website Update**
+
+**This website is no longer maintained as of July 2025.**
+
+For the latest information, please visit my new homepage:
+
+**https://sites.google.com/view/ayehninnkhine**
+
+
 I’m an AI researcher, educator, and community builder passionate about Natural Language Processing (NLP) for social good. 
 
 I am currently affiliated with Department of Computer Engineering and Advanced Analytics Lab at King Mongkut’s University of Technology Thonburi (KMUTT), Thailand. My journey in AI began with a master’s thesis on Burmese text classification, supervised by the wonderful Dr. Khin Thandar Nwet. During my Ph.D. at Prince of Songkla University Thailand, I expanded my research into medical AI under the guidance of my amazing advisors, Asst. Prof. Dr. Jarunee Duangsuwan and Asst. Prof. Dr. Wiphada Wettayaprasit. I have also worked on humanitarian AI projects as a senior NLP consultant, contributing to initiatives that received grants from Microsoft AI for Good and the UNDP.
